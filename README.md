@@ -18,4 +18,6 @@ luego en la terminal escribimos npm install y esperamos a que termine
 si hiciste todos los pasos bien cuando ejecutemos npm init el bot va a funcionar.
 ## Despliegue en host ##
 Aqui sera mucho mas facil, solo sera ejecutar los comandos (es diferente en cada host) npm install y luego npm init
-¡Si tienes alguna duda no olvides enviarle solicitud de amistad a Jakemate977#5825!
+
+
+## ¡Si tienes alguna duda no olvides enviarle solicitud de amistad a Jakemate977#5825! ##
