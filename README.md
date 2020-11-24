@@ -9,7 +9,7 @@ Hay dos formas de hacer un desplegarlo pero aqui va lo principal.
 5. Desde ahi puedes personalizar el bot, cambiarle el nombre y su avatar, ahi hay una seccion llamada token, le damos a copiar token y vamos al archivo config.json, lo abrimos con
 el pad de notas y ahi hay una linea que dice "token":"Aqui ponemos el token" y pones el token donde dice Aqui ponemos el token.
 6. Para invitar al bot en la seccion developers, en nuestra aplicacion vamos a general information y ahi copiamos el client id y en nuestro navegador escribimos:
-https://discordapp.com/api/oauth2/authorize?client_id=NUESTRO CLIENT ID&permissions=8&scope=bot
+https://discordapp.com/api/oauth2/authorize?client_id=NUESTRO_CLIENT_ID&permissions=8&scope=bot
 y donde dice NUESTRO CLIENT ID ponemos el client id que habiamos copiado antes.
 ## Despliegue en pc ##
 Vamos a http://node.org/ y descargamos node.
