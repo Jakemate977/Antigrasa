@@ -12,7 +12,7 @@ el pad de notas y ahi hay una linea que dice "token":"Aqui ponemos el token" y p
 https://discordapp.com/api/oauth2/authorize?client_id=NUESTRO_CLIENT_ID&permissions=8&scope=bot
 y donde dice NUESTRO CLIENT ID ponemos el client id que habiamos copiado antes.
 ## Despliegue en pc ##
-Vamos a http://node.org/ y descargamos node.
+Vamos a http://nodejs.org/ y descargamos node.
 luego vamos a la carpeta de nuestro bot y presionando shift y click derecho le damos a "abrir ventana de powershell aqui"
 luego en la terminal escribimos npm install y esperamos a que termine
 si hiciste todos los pasos bien cuando ejecutemos npm init el bot va a funcionar.
